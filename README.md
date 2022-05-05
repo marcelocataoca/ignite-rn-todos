@@ -1,8 +1,12 @@
+
+![image](https://user-images.githubusercontent.com/19317136/166954944-a98d8641-dadd-4759-a9fd-74f7f736f63e.png)
+
+
 ## 🧪 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [React](https://reactjs.org)
+- [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 
 ## 🚀 Como executar
