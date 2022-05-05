@@ -24,8 +24,14 @@ Para iniciá-lo, siga os passos abaixo:
 # Instalar as dependências
 $ yarn
 
-# Iniciar o projeto
+# Iniciar o metro
 $ yarn start
+
+##Exemplo de execução do app no emulador do Android*
+$ yarn run android
 ```
-O app estará disponível no seu browser pelo endereço http://localhost:3000.
+*Nesse ponto já consideramos que você tenha configurado
+o ambiente de desenvolvimento para [_Android_](https://react-native.rocketseat.dev/)
+
+Seu emulador Android deverá abrir e executar o app ignite-rn-todos
 
