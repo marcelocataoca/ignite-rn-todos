@@ -1,5 +1,5 @@
 
-![image](https://user-images.githubusercontent.com/19317136/166954944-a98d8641-dadd-4759-a9fd-74f7f736f63e.png)
+![rnTodoList](https://user-images.githubusercontent.com/19317136/174320590-43a1d09c-cda8-4541-a39e-25fa30f758d2.gif)
 
 
 ## 🧪 Tecnologias
